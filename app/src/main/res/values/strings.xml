@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat bot</string>
+    <string name="msg_exit">Press again to exit app</string>
+</resources>
